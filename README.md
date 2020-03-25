@@ -2,7 +2,7 @@
 
 Projeto realizado durante o curso Desenvolvimento Web Full Stack, da Digital House. 
 
-O objetivo é criar uma landing page para uma agência usando o bootstra e conceitos aprendidos de HTML e CSS. 
+O objetivo é criar uma landing page para uma agência usando o bootstrap e conceitos de HTML e CSS. 
 
 - criar nome
 - criar logo utilizando https://www.squarespace.com/logo
